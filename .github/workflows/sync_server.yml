@@ -1,6 +1,13 @@
 name: sync_server
 
 on:
+  workflow_dispatch:
+    inputs:
+      ref:
+        description: branch|tag|SHA to checkout
+        default: 'master'
+        required: true
+        
   push:
     branches:
       - master
