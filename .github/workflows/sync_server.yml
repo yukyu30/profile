@@ -5,12 +5,12 @@ on:
     inputs:
       ref:
         description: branch|tag|SHA to checkout
-        default: 'master'
+        default: 'main'
         required: true
         
   push:
     branches:
-      - master
+      - main
 
 jobs:
   deploy:
