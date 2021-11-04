@@ -1,0 +1,32 @@
+{
+    "name": {
+        "ja": "悠久",
+        "en": "yukyu"
+    },
+    "birthDay": "19xx/09/30",
+    "bio":{
+        "short": "広く浅く様々なことに興味を持つ人間。コメダに住むのが夢",
+        "normal": "",
+        "long": ""
+    },
+    "Username":{
+        "twitter": "yukyu30",
+        "github": "yukyu30",
+        "note": "yukyu30",
+        "zenn": "yu_9",
+        "suzuri": "yukyu_konpeki_dou",
+        "pixiv": "30107478",
+        "pixivFanbox": "yukyu30",
+        "booth": "uq-konpeki-dou",
+        "youtube": "UCDVJExPDmVXS-TVoKe49JRg",
+        "anchor": "yukyu30",
+        "lineStore": "1119482"
+    },
+    "webSiteUrl":{
+        "portfolio":"https://yukyu30.github.io/myportfolio/",
+        "blog": "https://blog.yukyu.net",
+        "hub": "https://hub.yukyu.net"
+    },
+    "primaryColor": "#0048FF",
+    "moreProfile": "https://blog.yukyu.net/me/"
+}
