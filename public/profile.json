@@ -3,6 +3,7 @@
         "ja": "悠久",
         "en": "yukyu"
     },
+    "avatar": "https://github.com/yukyu30/profile/tree/main/public/avater.jpg",
     "birthDay": "19xx/09/30",
     "bio":{
         "short": "広く浅く様々なことに興味を持つ人間。コメダに住むのが夢",
@@ -29,4 +30,5 @@
     },
     "primaryColor": "#0048FF",
     "moreProfile": "https://blog.yukyu.net/me/"
+
 }
